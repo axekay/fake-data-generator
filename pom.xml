@@ -16,6 +16,9 @@
 		<maven.shade.plugin.version>3.1.0</maven.shade.plugin.version>
 		<maven.compiler.plugin.version>3.6.1</maven.compiler.plugin.version>
 		<jdk.tools.version>1.8</jdk.tools.version>
+		<sonar.projectKey>axekay_fake-data-generator</sonar.projectKey>
+		<sonar.organization>axekay</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	<repositories>
 		<repository>
